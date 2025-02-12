@@ -47,7 +47,6 @@ return {
 				"pyright",
 				"pylsp",
                 "ruff",
-                "mypy",
 			},
 			-- auto install configured servers (with lspconfig)
 			automatic_installation = true,
